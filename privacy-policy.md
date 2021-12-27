@@ -11,6 +11,19 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
+### Objectionable Content and Behaviors
+The following content are not wlecomed on Spittin' :
+  - False information;
+  - Spam;
+  - Suicide or self-injury;
+  - Hate speech;
+  - Bulliying or harassment;
+  - People under the age of 13;
+  - Catfishers (people pretending to be someone else);
+  - People acting weird because of monetization;
+  
+If it happens that you come across content falling in one of the above categories please report them so that our team can remove it as soon as possible.
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
